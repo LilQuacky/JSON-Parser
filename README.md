@@ -14,6 +14,7 @@ The project involves implementing a JSON parser in Prolog and Common Lisp that c
 The project is implemented in two languages:
 - Prolog
 - Common Lisp
+
 Prolog and Common Lisp belong to different programming paradigms, which influence their approach to problem-solving and programming style. Understanding these paradigms is essential for working with the project files.
 
 ### Prolog - Logic Programming
